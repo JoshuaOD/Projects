@@ -20,7 +20,7 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/joshua-osei/)
 ## Projects:
 
 ###  [FAANG Stock Data Analysis & Monte Carlo Prediction](https://github.com/alexhuang1117/personal_projects/tree/master/pm25_analysis)
-![image](https://github.com/alexhuang1117/personal_projects/blob/master/pm25_analysis/images/model_arch.jpg?raw=true)
+![image](https://github.com/JoshuaOD/Projects/blob/main/images/download.png)
 * Using YFinance API to scrape and parse financial stock data into a dataframe 
 * Conducted exploratory data analysis on financial data set
 * Leveage Python to calculate financial metrics and crates visualations of data
