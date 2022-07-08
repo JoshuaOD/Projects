@@ -52,12 +52,12 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/joshua-osei/)
 ---
  
  
-### [Sentiment Analysis of Stock News](https://github.com/alexhuang1117/Data-Science-Portfolio/blob/master/Twitter_Sentiement_Analysis/Twitter_sentiment_Analysis.md)
+### [Sentiment Analysis of Stock News](https://github.com/JoshuaOD/Projects/tree/main/Sentiment%20Analysis)
+![image](https://github.com/JoshuaOD/Projects/blob/main/images/sentiment.jpeg)
 * Parsed a few GB of Tweets to select all the tweets in UK and in English.
 * Used 'qdap' package to analyze the emotion of the Tweets
 * Plotted the emotions over the day and over the week and analysed the interesting results.
 * **Keywords**(R, Twitter API, Time Series, Sentiment Analysis, ggplot)
-  <img src="Twitter_Sentiement_Analysis/Twitter_sentiment_Analysis_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-7-2.png" width="500">
 ---
  
  
