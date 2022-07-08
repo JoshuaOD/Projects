@@ -15,7 +15,7 @@ My interests include:
 - Powerlifting/ Weightlifting
 - Anime 
 
-Please contact me on [Linkedin](https://www.linkedin.com/in/alexzilihuang)
+Please contact me on [Linkedin](https://www.linkedin.com/in/joshua-osei/)
  
 ## Projects:
 
