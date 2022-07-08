@@ -19,13 +19,13 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/joshua-osei/)
  
 ## Projects:
 
-###  [Anomaly Detection on Beijing pm2.5 data using LSTM - Under Construction](https://github.com/alexhuang1117/personal_projects/tree/master/pm25_analysis)
+###  [FAANG Stock Data Analysis & Monte Carlo Prediction](https://github.com/alexhuang1117/personal_projects/tree/master/pm25_analysis)
 ![image](https://github.com/alexhuang1117/personal_projects/blob/master/pm25_analysis/images/model_arch.jpg?raw=true)
-* Used LSTM to fit five years of Beijing weather data 
-* Constructed anomaly scores from the difference between model prediction and real data
-* Investigated time periods with high anomaly scores
-* Results confirms that high anomaly scores corresponds with extreme weather (floods, heavy rain, firework celebration, etc)
-* **Keywords**(Anomaly Detection, Time Series, LSTM, Weather, Beijing, Semi-supervised learning)
+* Using YFinance API to scrape and parse financial stock data into a dataframe 
+* Conducted exploratory data analysis on financial data set
+* Leveage Python to calculate financial metrics and crates visualations of data
+* Used academic knowledge in real-world application to forecast stock prices into the future
+* **Keywords**(API, Time Series, Data Analysis, Finance, Stock Market, Supervised learning)
 ![image](https://github.com/alexhuang1117/personal_projects/blob/master/pm25_analysis/images/pollution_anom.png?raw=true)
 
 ---
