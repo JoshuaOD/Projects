@@ -31,17 +31,6 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/joshua-osei/)
 
 ---
  
-###  [Exchange Rate Analysis During US Election](https://github.com/alexhuang1117/Data-Science-Portfolio/blob/master/FX_Analysis_During_US_Election/main.ipynb)
-* Predicted US (2016) election results in realtime as the voting results of each region becomes available.
-* Regressed states with results against polling data and predicted results for the remaining states
-* Monte Carlos simulation used to simulate the winner of the election.
-* Compared simulated results with exchange rates fluctuations to see if market is efficient.
-* **Keywords**(Python, Linear Regression, Monte Carlos Simulation)
-<img src="FX_Analysis_During_US_Election/results.png" width="500">
- 
- 
----
- 
 ###  [Power-law or Log-normal? Baby Name and Twitter Analysis](https://github.com/alexhuang1117/Data-Science-Portfolio/blob/master/Power_Law_vs_Lognormal_US_Babynames/Power_Law_vs_Lognormal_US_Babynames.md)
 * Fitted power-law and log-normal distribution to US baby names data since 1960.
 * Use bootstrapping techniques to find a distribution of the power-law parameters
@@ -67,14 +56,5 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/joshua-osei/)
 * Fitted linear regression between GDP and future orientation
 * **Keywords**(R, World Bank API, Google API, Data Cleaning, Linear regression)
   <img src="GDP%20and%20Future%20Orientation/GDP_and_Future_Orientation_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-8-1.png" width="500">
- 
----
- 
-###  [Exchange Rate Analysis During UK Election - Under Construction](https://github.com/alexhuang1117/Data-Science-Portfolio/blob/master/FX_Analysis_during_UK_Election/main.ipynb)
-* Predicted UK (2017) election victories as the voting results as it happened.
-* retrieved from Tweets of result announcement and extracted time of announcement for each region.
-* Regressed regions with results against polling data and predicted results for the remaining regions
-* Monte Carlos simulation used to simulate the winner of the election.
-* **Keywords**(Python, Twitter API, Merging Data)
- 
+
  
