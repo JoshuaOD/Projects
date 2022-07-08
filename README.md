@@ -31,13 +31,9 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/joshua-osei/)
 
 ---
  
-###  [Power-law or Log-normal? Baby Name and Twitter Analysis](https://github.com/alexhuang1117/Data-Science-Portfolio/blob/master/Power_Law_vs_Lognormal_US_Babynames/Power_Law_vs_Lognormal_US_Babynames.md)
-* Fitted power-law and log-normal distribution to US baby names data since 1960.
-* Use bootstrapping techniques to find a distribution of the power-law parameters
-* Crawled Twitter to find 20000 random user and fitted power law distribution to users' friends count and followers count.
-* **Keywords**(R, Power-law, Bootstrapping, Log-normal)
-<img src="Power_Law_vs_Lognormal_US_Babynames/Power_Law_vs_Lognormal_US_Babynames_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-7-1.png" width="500">
- 
+###  [NBA Player Performance over the past 20 years (WIP)]
+![image](https://github.com/JoshuaOD/Projects/blob/main/images/nba.jpg)
+* N/A
 ---
  
  
