@@ -26,7 +26,8 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/joshua-osei/)
 * Leveage Python to calculate financial metrics and crates visualations of data
 * Used academic knowledge in real-world application to forecast stock prices into the future
 * **Keywords**(API, Time Series, Data Analysis, Finance, Stock Market, Supervised learning)
-![image](https://github.com/alexhuang1117/personal_projects/blob/master/pm25_analysis/images/pollution_anom.png?raw=true)
+
+
 
 ---
  
