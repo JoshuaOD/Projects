@@ -54,10 +54,10 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/joshua-osei/)
  
 ### [Sentiment Analysis of Stock News](https://github.com/JoshuaOD/Projects/tree/main/Sentiment%20Analysis)
 ![image](https://github.com/JoshuaOD/Projects/blob/main/images/sentiment.jpeg)
-* Parsed a few GB of Tweets to select all the tweets in UK and in English.
-* Used 'qdap' package to analyze the emotion of the Tweets
-* Plotted the emotions over the day and over the week and analysed the interesting results.
-* **Keywords**(R, Twitter API, Time Series, Sentiment Analysis, ggplot)
+* Parsed financial news headlines from Finviz using BeautifulSoup and cleaned data.
+* Used 'nltk'[package](https://www.nltk.org/api/nltk.sentiment.html) to analyze the emotion of the news headlines to create sentiment scores
+* Plotted the emotions over the day analysed the interesting results.
+* **Keywords**(BeautifulSoup, Time Series, Sentiment Analysis, matplotlib)
 ---
  
  
