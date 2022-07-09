@@ -30,6 +30,15 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/joshua-osei/)
 
 
 ---
+###  [Predicitng English Premier League Winners](https://github.com/JoshuaOD/Projects/tree/main/FAANG)
+![image](https://github.com/JoshuaOD/Projects/blob/main/images/epl.png)
+* Data extraction/creation using requests, BeautifulSoup and Pandas to webscrape EPL match data
+* Cleaned extracted dataframes to prepare for machine learning
+* Leveaged sckit-learn package in a classification problem to create predictions
+* Used error merics to measure and improve the predicitive power of the model we built
+* **Keywords**(Webscraping, BeautifulSoup, Data Cleaning, Sports, Machine Learning)
+
+---
  
 ###  [NBA Player Performance over the past 20 years (WIP)](https://github.com/JoshuaOD/Projects/tree/main/NBA%20Projects)
 ![image](https://github.com/JoshuaOD/Projects/blob/main/images/nba.jpg)
