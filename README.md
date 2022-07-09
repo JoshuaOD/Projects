@@ -31,7 +31,7 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/joshua-osei/)
 
 ---
 ###  [Predicitng English Premier League Winners](https://github.com/JoshuaOD/Projects/tree/main/FAANG)
-![image](https://github.com/JoshuaOD/Projects/blob/main/images/epl.png)
+![image](https://github.com/JoshuaOD/Projects/blob/main/images/epl.jpg)
 * Data extraction/creation using requests, BeautifulSoup and Pandas to webscrape EPL match data
 * Cleaned extracted dataframes to prepare for machine learning
 * Leveaged sckit-learn package in a classification problem to create predictions
