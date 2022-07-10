@@ -42,7 +42,11 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/joshua-osei/)
  
 ###  [NBA Player Performance over the past 20 years (WIP)](https://github.com/JoshuaOD/Projects/tree/main/NBA%20Projects)
 ![image](https://github.com/JoshuaOD/Projects/blob/main/images/nba.jpg)
-* N/A
+* Webscraped multiple datas from the past 30 NBA Seasons to create unique datasets
+* Performed data cleaning on scraped dataset to prep for analysis
+* Conducted data analysis and crrated data visualisation techniques
+* Used Machine Learning techniques to extend analysis as well as build a predictive model
+* **Keywords**(Webscraping, Pandas, Data Anlysis ,Data Cleaning, Sports, Machine Learning)
 ---
  
  
@@ -55,11 +59,5 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/joshua-osei/)
 ---
  
  
-### [GDP and Future Orientation](https://github.com/alexhuang1117/Data-Science-Portfolio/blob/master/GDP%20and%20Future%20Orientation/GDP_and_Future_Orientation.md)
-* Downloaded economic indicators data using World Bank API, and cleaned data
-* Downloaded search query of next and last year in Google for each country
-* Fitted linear regression between GDP and future orientation
-* **Keywords**(R, World Bank API, Google API, Data Cleaning, Linear regression)
-  <img src="GDP%20and%20Future%20Orientation/GDP_and_Future_Orientation_files/figure-markdown_github-ascii_identifiers/unnamed-chunk-8-1.png" width="500">
 
  
