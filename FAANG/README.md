@@ -34,6 +34,6 @@ To follow this project, please install the following locally:
     
 ## Data
 
-We'll be scraping [Basketball Reference](https://www.basketball-reference.com/) to get our data in the project; shown at the beginning (`Predict Stocks using Monte Carlo Simulation.ipynb`).
+We'll be using an API to scrape data from [Yahoo Finance](https://uk.finance.yahoo.com/); shown at the beginning (`Predict Stocks using Monte Carlo Simulation.ipynb`).
 
 For more info on the [Yahoo Finance API](https://pypi.org/project/yfinance/)
