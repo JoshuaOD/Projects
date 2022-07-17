@@ -10,9 +10,9 @@ I'm currently a final year BSc Economics and Finance student who is aiming to br
 
 My interests include:
 - Sports
-- Financial Stock Trading
+- Economics & Finance
 - Powerlifting/ Weightlifting
-- Anime 
+- Anime/Manga
 
 Please contact me on [Linkedin](https://www.linkedin.com/in/joshua-osei/)
  
