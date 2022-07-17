@@ -40,7 +40,7 @@ Please contact me on [Linkedin](https://www.linkedin.com/in/joshua-osei/)
 
 ---
  
-###  [NBA Player Performance over the past 20 years (WIP)](https://github.com/JoshuaOD/Projects/tree/main/NBA%20Projects)
+###  [NBA Player Performance over the past 30 years](https://github.com/JoshuaOD/Projects/tree/main/NBA%20Projects)
 ![image](https://github.com/JoshuaOD/Projects/blob/main/images/nba.jpg)
 * Webscraped multiple pages from the past 30 NBA Seasons to create unique datasets
 * Performed data cleaning on scraped dataset to prep for analysis
