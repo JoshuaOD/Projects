@@ -1,7 +1,6 @@
 # Joshua OD Portfolio
 
-Welcome to my Data Science portfolio. Here you'll find a collection of works that display my skillset
-through various projects I've worked on and are currently working on.
+Welcome to my data portfolio. Here you'll find a collection of works that display my skillset through various projects I've worked on and are currently working on.
 
 
 
