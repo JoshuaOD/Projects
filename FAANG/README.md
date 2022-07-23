@@ -31,6 +31,7 @@ To follow this project, please install the following locally:
     * YFinance
     * matplotlib
     * plotly
+    * kaleido
     
 ## Data
 
