@@ -30,6 +30,7 @@ To follow this project, please install the following locally:
     * numpy
     * YFinance
     * matplotlib
+    * seaborn
     * plotly
     * kaleido
     
