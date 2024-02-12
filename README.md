@@ -6,7 +6,7 @@ Welcome to my data portfolio. Here you'll find a collection of works that displa
 
 
 ## 🚀 About Me
-I'm currently a final year BSc Economics and Finance student who is aiming to break into the Data Science space as a self taught data scientist
+I'm currently a recent BSc Economics and Finance student self-teaching myself Python and SQL through various projects
 
 My interests include:
 - Sports
